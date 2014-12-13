@@ -11,3 +11,7 @@ body {
 div {
 	border: solid;
 }
+
+ul {
+	list-style: inside;
+}
