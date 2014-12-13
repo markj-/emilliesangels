@@ -1,0 +1,13 @@
+body {
+	background-color: #B2F0B2;
+	text-align: center;
+	}
+
+.important-link {
+	font-size: 30px;
+	color: fuchsia;
+}
+
+div {
+	border: solid;
+}
